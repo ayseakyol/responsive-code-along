@@ -8,6 +8,7 @@
 | __Mobile CSS Code__ | As an enthusiastic HYF student I can create the CSS Code for the mobile version so that I have a nice looking website. | none | basic rules for the layout. |
 | __Tablet CSS Code__ | As an enthusiastic HYF student I can create the CSS Code for the mobile version so that I have a nice looking website. | none | a media query for the tablet CSS |
 | __Desktop CSS Code__ | As an enthusiastic HYF student I can create the CSS Code for the mobile version so that I have a nice looking website. | none | a media query for the desktop CSS |
+| __Add some nice colors__ | As an enthusiastic HYF student I can create the CSS Code for the mobile version so that I can add some color styles so that have a nicer. | none | mostly colors, matgins, etc. |
 |  | |  |  |
 | ... | ... | ... | ... |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
