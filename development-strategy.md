@@ -4,7 +4,10 @@
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
+| __HTML Content__ | As an enthusiastic HYF student I can create the HTML structer so that I have a good semantic base to build upon | An full template project with `doctype`, language, charset, `head` & `body` | an empty file |
+| __Mobile CSS Code__ | As an enthusiastic HYF student I can create the CSS Code for the mobile version so that I have a nice looking website. | none | basic rules for the layout. |
+| __Tablet CSS Code__ | As an enthusiastic HYF student I can create the CSS Code for the mobile version so that I have a nice looking website. | none | a media query for the tablet CSS |
+| __Desktop CSS Code__ | As an enthusiastic HYF student I can create the CSS Code for the mobile version so that I have a nice looking website. | none | a media query for the desktop CSS |
 |  | |  |  |
 | ... | ... | ... | ... |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
